@@ -3,8 +3,8 @@ import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 
 // ── КОНФИГУРАЦИЯ ─────────────────────────────────────────────────────────────
 // Замените на ваши данные из Supabase → Settings → API
-const SUPABASE_URL = "https://YOUR_PROJECT.supabase.co";
-const SUPABASE_ANON_KEY = "YOUR_ANON_KEY";
+const SUPABASE_URL = "https://klskklkgltlkbnimhuna.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_6Rar90QvqMtOrqboEJWFpQ_YYr3r_KL";
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
